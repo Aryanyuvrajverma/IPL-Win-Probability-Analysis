@@ -3,4 +3,4 @@ End-to-end IPL data analytics project with win probability prediction using mach
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](./Screenshots/dashboard.png)
