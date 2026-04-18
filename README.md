@@ -3,7 +3,8 @@ End-to-end IPL data analytics project with win probability prediction using mach
 
 ## Dashboard Preview
 
-![Dashboard](./screenshots/dashboard.png)
+<img width="1278" height="718" alt="Screenshot 2026-04-09 120905" src="https://github.com/user-attachments/assets/2005a773-7e55-4b79-ae7c-7a0762a46ed2" />
+
 
 Overview
 
